@@ -1,11 +1,11 @@
-About gremlinpython
-===================
+About gremlinpython-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gremlinpython-feedstock/blob/main/LICENSE.txt)
 
 Home: http://tinkerpop.apache.org
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gremlinpython-feedstock/blob/main/LICENSE.txt)
 
 Summary: Gremlin-Python for Apache TinkerPop
 
